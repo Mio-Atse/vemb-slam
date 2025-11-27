@@ -1,0 +1,16 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Large or generated artifacts
+logs/
+log/
+videos/
+weights/
+*.pcd
+*.pth
+*.pt
+
+# Misc
+*.DS_Store

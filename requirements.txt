@@ -1,0 +1,11 @@
+opencv-python
+numpy
+open3d
+torch
+torchvision
+transformers
+scipy
+matplotlib
+pymavlink
+Pillow
+pyyaml
