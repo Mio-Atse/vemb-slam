@@ -1,6 +1,6 @@
-# RGB SLAM System
+# vEMB-SLAM
 
-A modular Dense Visual SLAM system using Deep Learning for Depth Estimation and ORB-SLAM concepts for tracking.
+A modular dense visual SLAM system using deep learning for depth estimation and ORB-SLAM concepts for tracking.
 
 ## Features
 - **Depth Estimation:** Supports ZoeDepth, MiDaS, and Metric3D models
@@ -12,7 +12,7 @@ A modular Dense Visual SLAM system using Deep Learning for Depth Estimation and 
 
 ## Project Structure
 ```
-rgb_slam/
+vEMB-SLAM/
 ├── config/                  # Configuration files
 │   └── default_config.yaml  # Main configuration
 ├── data/                    # Data files

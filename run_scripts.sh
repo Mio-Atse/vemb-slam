@@ -1,5 +1,5 @@
 #!/bin/bash
-# Parameter sweep script for RGB-SLAM
+# Parameter sweep script for vEMB-SLAM
 # This script demonstrates how to run multiple experiments with different configurations
 
 # Update calibration file path in config if needed

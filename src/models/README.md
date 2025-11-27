@@ -1,6 +1,6 @@
 # Models Directory
 
-This directory contains the **model definitions** (architecture code) for the segmentation models used in the RGB-SLAM system.
+This directory contains the **model definitions** (architecture code) for the segmentation models used in the vEMB-SLAM system.
 
 ## Contents
 

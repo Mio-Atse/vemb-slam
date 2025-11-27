@@ -13,7 +13,7 @@ def load_config(config_path):
         return yaml.safe_load(f)
 
 def main():
-    parser = argparse.ArgumentParser(description="RGB SLAM System")
+    parser = argparse.ArgumentParser(description="vEMB-SLAM")
     parser.add_argument("--config", type=str, default="config/default_config.yaml", help="Path to config file")
     
     # Allow overriding key config parameters via CLI
